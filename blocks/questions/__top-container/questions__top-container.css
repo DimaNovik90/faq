@@ -1,0 +1,6 @@
+.questions__top-container {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}

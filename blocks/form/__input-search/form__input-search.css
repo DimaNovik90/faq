@@ -1,0 +1,18 @@
+.form__input-search {
+  border: none;
+  background: rgba(238, 238, 238, 1);
+  width: 100%;
+  padding-top: 23px;
+  padding-left: 20px;
+  padding-bottom: 21px;
+  border-bottom-left-radius: 5px;
+  border-top-left-radius: 5px;
+}
+.form__input-search::placeholder {
+  font-family: "Mont";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 100%;
+  color: #999999;
+}

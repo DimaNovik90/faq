@@ -1,0 +1,21 @@
+.form__button {
+  width: 220px;
+  border: none;
+  background: rgba(9, 187, 181, 1);
+  border-radius: 5px;
+  padding: 0;
+  font-family: "Mont";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 16px;
+  line-height: 100%;
+  color: white;
+  cursor: pointer;
+}
+
+@media screen and (max-width: 320px) {
+  .form__button {
+    max-width: 60px;
+    box-sizing: border-box;
+  }
+}

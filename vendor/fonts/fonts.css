@@ -1,0 +1,22 @@
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 700;
+  src: url(./PlayfairDisplay-Bold.ttf);
+}
+@font-face {
+  font-family: 'Mont';
+  font-style: normal;
+  font-weight: 600;
+  src: url(./Mont-SemiBold.ttf) format('ttf'),
+        url(./Mont-SemiBold.woff) format('woff'),
+        url(./Mont-SemiBold.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'Mont';
+  font-style: normal;
+  font-weight: 400;
+  src: url(./Mont-Regular.ttf) format('ttf'),
+        url(./Mont-Regular.woff) format('woff'),
+        url(./Mont-Regular.woff2) format('woff2');
+}

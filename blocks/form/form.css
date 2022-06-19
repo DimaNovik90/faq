@@ -1,0 +1,12 @@
+.form {
+  max-width: 900px;
+  margin: 0 auto;
+  display: flex;
+  background: rgba(238, 238, 238, 1);
+  margin-top: 70px;
+}
+@media screen and (max-width: 320px) {
+  .form {
+    margin-top: 40px;
+  }
+}
