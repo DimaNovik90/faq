@@ -2,6 +2,8 @@
 @import url(../vendor/fonts/fonts.css);
 @import url(../blocks/content/content.css);
 @import url(../blocks/content/__title/content__title.css);
+@import url(../blocks/content/__placeholder/content__placeholder.css);
+@import url(../blocks/content/__placeholder/_text-weight/content__placeholder_text-weight.css);
 @import url(../blocks/form/form.css);
 @import url(../blocks/form/__input-search/form__input-search.css);
 @import url(../blocks/form/__button/form__button.css);
@@ -10,6 +12,7 @@
 @import url(../blocks/questions/__container/questions__container.css);
 @import url(../blocks/questions/__contaiter-title/questions__contaiter-title.css);
 @import url(../blocks/questions/__container/__contaiter-button/questions__contaiter-button.css);
+@import url(../blocks/questions/__container/__contaiter-img/questions__contaiter-img.css);
 @import url(../blocks/questions/__widget/questions__widget_visible_text.css);
 @import url(../blocks/questions/__text/questions__text.css);
 @import url(../blocks/questions/__text/_item/questions__text_item.css);
@@ -17,3 +20,4 @@
 @import url(../blocks/questions/__top-container/questions__top-container.css);
 @import url(../blocks/questions/__wrraper/questions__wrraper.css);
 @import url(../blocks/questions/__description/questions__description.css);
+

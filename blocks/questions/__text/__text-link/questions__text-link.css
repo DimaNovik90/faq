@@ -3,6 +3,5 @@
   text-decoration: none;
 }
 .questions__text-link:hover {
-  border-bottom: 1px solid orange;
-
+  border-bottom: 2px solid orange;
 }

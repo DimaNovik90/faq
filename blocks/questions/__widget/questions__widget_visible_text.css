@@ -1,4 +1,5 @@
 .questions__widget_visible_text {
   height: auto;
+  border-bottom: 2px solid rgba(9, 187, 181, 1);
 }
 

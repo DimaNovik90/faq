@@ -1,3 +1,16 @@
 .questions__wrraper {
   max-width: 590px;
 }
+
+
+@media screen and (min-width: 600px) and (max-width: 851px) {
+  .questions__wrraper {
+    max-width: 100%;
+  }
+}
+
+@media screen and (min-width: 851px) and (max-width: 1200px) {
+  .questions__wrraper {
+    max-width: 49%;
+  }
+}

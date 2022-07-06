@@ -1,0 +1,17 @@
+.content__placeholder {
+  font-family: "Mont";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 100%;
+  color: #999999;
+  margin: 15px auto 0;
+  max-width: 900px;
+  font-weight: 700;
+}
+@media screen and (max-width: 320px) {
+  .content__placeholder {
+    font-size: 12px;
+    max-width: 100%;
+  }
+}

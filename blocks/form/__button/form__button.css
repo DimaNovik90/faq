@@ -17,5 +17,10 @@
   .form__button {
     max-width: 60px;
     box-sizing: border-box;
+    background-image: url(../../../icons/1486564716-magnifying-glass-search_81527.png);
+    background-size: 20px 20px;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: rgba(9, 187, 181, 1);
   }
 }
